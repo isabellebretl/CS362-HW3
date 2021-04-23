@@ -1,1 +1,1 @@
-![Flowchart of leapyear program](/flowchart.pdf)
+![Flowchart of leapyear program](https://github.com/isabellebretl/CS362-HW3/blob/2cf197a73e39b4b51f1c0ac9635d3e9a69d8f5c4/flowchart.png)
